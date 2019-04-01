@@ -19,6 +19,6 @@
   "author": "Nick Phillips <nick@linkstudios.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "net-snmp": "~1.1.13"
+    "net-snmp": "~1.2.4"
   }
 }
